@@ -10,6 +10,9 @@ Datový soubor obsahuje hodnocení a komentáře od zákazníků získané z ve�
 - Identifikovat nejčastější výtky a pochvaly ze strany zákazníků  
 - Podpořit rozhodování o zlepšení zákaznické zkušenosti  
 
+## 🛠️ Použité nástroje a technologie
+- Tableau
+
 ## 🔍 Zjištění  
 - Spokojenost výrazně kolísala podle cestovní třídy – vyšší hodnocení měla business a first class  
 - Nejčastější stížnosti se týkaly zpoždění letů, nekonzistentní kvality jídla a zákaznického servisu  
